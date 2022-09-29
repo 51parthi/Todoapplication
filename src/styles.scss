@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body{
+    height: 100%;
+    background: linear-gradient(to left,rgb(245, 163, 163),rgb(171, 82, 245));
+}
+.mat-button.mat-accent,
+.mat-icon-button.mat-accent,
+.mat-stroked-button.mat-accent{
+    color: rgb(81, 237, 81);
+}
